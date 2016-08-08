@@ -1,0 +1,33 @@
+_repo: Four-Girls-at-Chautauqua_12662
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pansy
+    alias: Alden, Isabella Macdonald
+    birthdate: 1841
+    deathdate: 1930
+    gutenberg_agent_id: '4482'
+    url: http://www.gutenberg.org/2009/agents/4482
+    wikipedia: http://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Chautauqua (N.Y.) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Camp meetings -- Juvenile fiction'
+- !lcsh 'Conversion -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Sunday school teachers -- Juvenile fiction'
+- !lcsh 'Young men -- Juvenile fiction'
+- GITenberg
+title: Four Girls at Chautauqua
+url: http://www.gutenberg.org/ebooks/12662
